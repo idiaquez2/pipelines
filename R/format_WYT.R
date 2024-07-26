@@ -1,4 +1,4 @@
-#' Construct standard summary for data from Wytham Woods, UK. Comment: test
+#' Construct standard summary for data from Wytham Woods, UK.
 #'
 #' A pipeline to produce a standard output for the nest box population in Wytham
 #' Woods, UK, administered by Edward Grey Institute Oxford (Ben Sheldon).
